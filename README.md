@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vidit Agrawal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on **Heat Stroke Prevention Wearable Device**
+- 🔭 I’m currently working on **Secret Project**
 
 - 🌱 I’m currently learning **DSA,JS,PYTHON,REACT.js,MongoDB,Next.js,TailwandCSS**
 
 - 👨‍💻 All of my projects are available at [https://64c8f74a8332180096fe4d6c--ubiquitous-griffin-7b0a0b.netlify.app/](https://64c8f74a8332180096fe4d6c--ubiquitous-griffin-7b0a0b.netlify.app/)
 
-- 💬 Ask me about **HTML,CSS,CPP,JAVA,AIML**
+- 💬 Ask me about **Web Dev, Android Dev usins Flutter, DSA**
 
 - 📫 How to reach me **agrawalvidit656@gmail.com**
 
