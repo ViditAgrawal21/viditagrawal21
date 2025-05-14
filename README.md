@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vidit Agrawal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭**WORK WORK WORK**
+- 🔭 **WORK WORK WORK**
 
 - 🌱 I’m currently learning **DSA,JS,PYTHON,REACT.js,MongoDB,Next.js,TailwandCSS**
 
