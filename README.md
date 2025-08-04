@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://64c8f74a8332180096fe4d6c--ubiquitous-griffin-7b0a0b.netlify.app/](https://64c8f74a8332180096fe4d6c--ubiquitous-griffin-7b0a0b.netlify.app/)
 
-- 💬 Ask me about **Web Dev, Android Dev using Flutter, DSA**
+- 💬 Ask me about **Web Dev, Android Dev using Flutter, DSA, C++, SQL**
 
 - 📫 How to reach me **agrawalvidit656@gmail.com**
 
