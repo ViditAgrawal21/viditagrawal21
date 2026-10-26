@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA,JS,PYTHON,REACT.js,MongoDB,Next.js,TailwandCSS**
 
-- 👨‍💻 All of my projects are available at [https://www.viditagrawal.in/]([https://64c8f74a8332180096fe4d6c--ubiquitous-griffin-7b0a0b.netlify.app/](https://www.viditagrawal.in)
+- 👨‍💻 All of my projects are available at [https://www.viditagrawal.in/](https://www.viditagrawal.in)
 
 - 💬 Ask me about **Web Dev, Android Dev using Flutter, DSA, C++, SQL**
 
